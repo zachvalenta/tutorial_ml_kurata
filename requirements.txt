@@ -17,4 +17,4 @@ six==1.11.0
 tensorflow==2.12.1
 tensorflow-tensorboard==0.4.0rc3
 urllib3==1.26.19
-Werkzeug==3.0.3
+Werkzeug==3.0.6
